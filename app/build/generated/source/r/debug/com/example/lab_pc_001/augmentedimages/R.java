@@ -3541,35 +3541,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.hack.innovationstar.augmentedimages:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.hack.innovationstar.augmentedimages:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.hack.innovationstar.augmentedimages:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.hack.innovationstar.augmentedimages:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.hack.innovationstar.augmentedimages:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.hack.innovationstar.augmentedimages:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.hack.innovationstar.augmentedimages:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.hack.innovationstar.augmentedimages:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.hack.innovationstar.augmentedimages:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.hack.innovationstar.augmentedimages:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.hack.innovationstar.augmentedimages:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.hack.innovationstar.augmentedimages:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.hack.innovationstar.augmentedimages:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.hack.innovationstar.augmentedimages:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.hack.innovationstar.augmentedimages:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.hack.innovationstar.augmentedimages:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.hack.innovationstar.augmentedimages:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.hack.innovationstar.augmentedimages:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.hack.innovationstar.augmentedimages:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.hack.innovationstar.augmentedimages:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.hack.innovationstar.augmentedimages:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.hack.innovationstar.augmentedimages:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.hack.innovationstar.augmentedimages:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.hack.innovationstar.augmentedimages:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.hack.innovationstar.augmentedimages:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.hack.innovationstar.augmentedimages:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.hack.innovationstar.augmentedimages:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.hack.innovationstar.augmentedimages:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.hack.innovationstar.augmentedimages:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.example.lab_pc_001.augmentedimages:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.example.lab_pc_001.augmentedimages:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.example.lab_pc_001.augmentedimages:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.example.lab_pc_001.augmentedimages:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.example.lab_pc_001.augmentedimages:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.example.lab_pc_001.augmentedimages:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.example.lab_pc_001.augmentedimages:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.example.lab_pc_001.augmentedimages:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.example.lab_pc_001.augmentedimages:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.example.lab_pc_001.augmentedimages:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.example.lab_pc_001.augmentedimages:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.example.lab_pc_001.augmentedimages:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.example.lab_pc_001.augmentedimages:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.example.lab_pc_001.augmentedimages:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.example.lab_pc_001.augmentedimages:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.example.lab_pc_001.augmentedimages:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.example.lab_pc_001.augmentedimages:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.example.lab_pc_001.augmentedimages:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.example.lab_pc_001.augmentedimages:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.example.lab_pc_001.augmentedimages:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.example.lab_pc_001.augmentedimages:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.example.lab_pc_001.augmentedimages:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.example.lab_pc_001.augmentedimages:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.example.lab_pc_001.augmentedimages:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.example.lab_pc_001.augmentedimages:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.example.lab_pc_001.augmentedimages:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.example.lab_pc_001.augmentedimages:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.example.lab_pc_001.augmentedimages:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.example.lab_pc_001.augmentedimages:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -3612,7 +3612,7 @@ public final class R {
         0x7f02012e
       };
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3620,11 +3620,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:background
+     * @attr name com.example.lab_pc_001.augmentedimages:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3635,11 +3635,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:backgroundSplit
+     * @attr name com.example.lab_pc_001.augmentedimages:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3650,11 +3650,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:backgroundStacked
+     * @attr name com.example.lab_pc_001.augmentedimages:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3663,11 +3663,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetEnd
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3676,11 +3676,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetEndWithActions
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3689,11 +3689,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetLeft
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3702,11 +3702,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetRight
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3715,11 +3715,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetStart
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3728,11 +3728,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetStartWithNavigation
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3740,11 +3740,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:customNavigationLayout
+     * @attr name com.example.lab_pc_001.augmentedimages:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -3762,11 +3762,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:displayOptions
+     * @attr name com.example.lab_pc_001.augmentedimages:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3774,11 +3774,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:divider
+     * @attr name com.example.lab_pc_001.augmentedimages:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3787,11 +3787,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:elevation
+     * @attr name com.example.lab_pc_001.augmentedimages:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3800,21 +3800,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:height
+     * @attr name com.example.lab_pc_001.augmentedimages:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:hideOnContentScroll
+     * @attr name com.example.lab_pc_001.augmentedimages:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3822,11 +3822,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:homeAsUpIndicator
+     * @attr name com.example.lab_pc_001.augmentedimages:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3834,11 +3834,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:homeLayout
+     * @attr name com.example.lab_pc_001.augmentedimages:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3846,11 +3846,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:icon
+     * @attr name com.example.lab_pc_001.augmentedimages:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3858,11 +3858,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:indeterminateProgressStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3871,11 +3871,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:itemPadding
+     * @attr name com.example.lab_pc_001.augmentedimages:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3883,11 +3883,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:logo
+     * @attr name com.example.lab_pc_001.augmentedimages:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3901,11 +3901,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:navigationMode
+     * @attr name com.example.lab_pc_001.augmentedimages:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3913,11 +3913,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:popupTheme
+     * @attr name com.example.lab_pc_001.augmentedimages:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3926,11 +3926,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:progressBarPadding
+     * @attr name com.example.lab_pc_001.augmentedimages:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3938,21 +3938,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:progressBarStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:subtitle
+     * @attr name com.example.lab_pc_001.augmentedimages:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3960,21 +3960,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:subtitleTextStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:title
+     * @attr name com.example.lab_pc_001.augmentedimages:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3982,7 +3982,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:titleTextStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -4064,12 +4064,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.hack.innovationstar.augmentedimages:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.hack.innovationstar.augmentedimages:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.hack.innovationstar.augmentedimages:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.hack.innovationstar.augmentedimages:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.hack.innovationstar.augmentedimages:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.hack.innovationstar.augmentedimages:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.example.lab_pc_001.augmentedimages:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.example.lab_pc_001.augmentedimages:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.example.lab_pc_001.augmentedimages:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.example.lab_pc_001.augmentedimages:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.example.lab_pc_001.augmentedimages:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.example.lab_pc_001.augmentedimages:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -4083,7 +4083,7 @@ public final class R {
         0x7f02010a, 0x7f02012e
       };
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4091,11 +4091,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:background
+     * @attr name com.example.lab_pc_001.augmentedimages:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4106,11 +4106,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:backgroundSplit
+     * @attr name com.example.lab_pc_001.augmentedimages:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4118,11 +4118,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:closeItemLayout
+     * @attr name com.example.lab_pc_001.augmentedimages:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4131,11 +4131,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:height
+     * @attr name com.example.lab_pc_001.augmentedimages:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4143,11 +4143,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:subtitleTextStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4155,7 +4155,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:titleTextStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -4165,8 +4165,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.hack.innovationstar.augmentedimages:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.hack.innovationstar.augmentedimages:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.example.lab_pc_001.augmentedimages:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.example.lab_pc_001.augmentedimages:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -4175,7 +4175,7 @@ public final class R {
         0x7f020077, 0x7f02008e
       };
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4183,17 +4183,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:expandActivityOverflowButtonDrawable
+     * @attr name com.example.lab_pc_001.augmentedimages:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:initialActivityCount
+     * @attr name com.example.lab_pc_001.augmentedimages:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -4204,13 +4204,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.hack.innovationstar.augmentedimages:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.hack.innovationstar.augmentedimages:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.hack.innovationstar.augmentedimages:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.hack.innovationstar.augmentedimages:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.hack.innovationstar.augmentedimages:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.hack.innovationstar.augmentedimages:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.hack.innovationstar.augmentedimages:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.example.lab_pc_001.augmentedimages:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.example.lab_pc_001.augmentedimages:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.example.lab_pc_001.augmentedimages:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.example.lab_pc_001.augmentedimages:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.example.lab_pc_001.augmentedimages:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.example.lab_pc_001.augmentedimages:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.example.lab_pc_001.augmentedimages:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -4238,7 +4238,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4247,11 +4247,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonIconDimen
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4259,11 +4259,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonPanelSideLayout
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4271,11 +4271,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:listItemLayout
+     * @attr name com.example.lab_pc_001.augmentedimages:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4283,11 +4283,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:listLayout
+     * @attr name com.example.lab_pc_001.augmentedimages:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4295,21 +4295,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:multiChoiceItemLayout
+     * @attr name com.example.lab_pc_001.augmentedimages:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:showTitle
+     * @attr name com.example.lab_pc_001.augmentedimages:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4317,7 +4317,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:singleChoiceItemLayout
+     * @attr name com.example.lab_pc_001.augmentedimages:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -4328,9 +4328,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.hack.innovationstar.augmentedimages:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.hack.innovationstar.augmentedimages:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.hack.innovationstar.augmentedimages:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.example.lab_pc_001.augmentedimages:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.example.lab_pc_001.augmentedimages:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.example.lab_pc_001.augmentedimages:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -4356,7 +4356,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4364,22 +4364,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:srcCompat
+     * @attr name com.example.lab_pc_001.augmentedimages:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:tint
+     * @attr name com.example.lab_pc_001.augmentedimages:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4396,7 +4396,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:tintMode
+     * @attr name com.example.lab_pc_001.augmentedimages:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -4407,9 +4407,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.hack.innovationstar.augmentedimages:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.hack.innovationstar.augmentedimages:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.hack.innovationstar.augmentedimages:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.example.lab_pc_001.augmentedimages:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.example.lab_pc_001.augmentedimages:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.example.lab_pc_001.augmentedimages:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -4432,7 +4432,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4440,22 +4440,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:tickMark
+     * @attr name com.example.lab_pc_001.augmentedimages:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:tickMarkTint
+     * @attr name com.example.lab_pc_001.augmentedimages:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4472,7 +4472,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:tickMarkTintMode
+     * @attr name com.example.lab_pc_001.augmentedimages:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -4612,13 +4612,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.hack.innovationstar.augmentedimages:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.hack.innovationstar.augmentedimages:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.hack.innovationstar.augmentedimages:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.hack.innovationstar.augmentedimages:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.hack.innovationstar.augmentedimages:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.hack.innovationstar.augmentedimages:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.hack.innovationstar.augmentedimages:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.example.lab_pc_001.augmentedimages:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.example.lab_pc_001.augmentedimages:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.example.lab_pc_001.augmentedimages:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.example.lab_pc_001.augmentedimages:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.example.lab_pc_001.augmentedimages:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.example.lab_pc_001.augmentedimages:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.example.lab_pc_001.augmentedimages:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -4646,7 +4646,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4655,11 +4655,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:autoSizeMaxTextSize
+     * @attr name com.example.lab_pc_001.augmentedimages:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4668,11 +4668,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:autoSizeMinTextSize
+     * @attr name com.example.lab_pc_001.augmentedimages:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4680,11 +4680,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:autoSizePresetSizes
+     * @attr name com.example.lab_pc_001.augmentedimages:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4693,11 +4693,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:autoSizeStepGranularity
+     * @attr name com.example.lab_pc_001.augmentedimages:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4710,21 +4710,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:autoSizeTextType
+     * @attr name com.example.lab_pc_001.augmentedimages:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:fontFamily
+     * @attr name com.example.lab_pc_001.augmentedimages:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4734,7 +4734,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textAllCaps
+     * @attr name com.example.lab_pc_001.augmentedimages:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -4746,124 +4746,124 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.hack.innovationstar.augmentedimages:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.hack.innovationstar.augmentedimages:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.hack.innovationstar.augmentedimages:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.hack.innovationstar.augmentedimages:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.hack.innovationstar.augmentedimages:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.hack.innovationstar.augmentedimages:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.hack.innovationstar.augmentedimages:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.hack.innovationstar.augmentedimages:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.hack.innovationstar.augmentedimages:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.hack.innovationstar.augmentedimages:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.hack.innovationstar.augmentedimages:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.hack.innovationstar.augmentedimages:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.hack.innovationstar.augmentedimages:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.hack.innovationstar.augmentedimages:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.hack.innovationstar.augmentedimages:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.hack.innovationstar.augmentedimages:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.hack.innovationstar.augmentedimages:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.hack.innovationstar.augmentedimages:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.hack.innovationstar.augmentedimages:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.hack.innovationstar.augmentedimages:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.hack.innovationstar.augmentedimages:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.hack.innovationstar.augmentedimages:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.hack.innovationstar.augmentedimages:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.hack.innovationstar.augmentedimages:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.hack.innovationstar.augmentedimages:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.hack.innovationstar.augmentedimages:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.hack.innovationstar.augmentedimages:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.hack.innovationstar.augmentedimages:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.hack.innovationstar.augmentedimages:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.hack.innovationstar.augmentedimages:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.hack.innovationstar.augmentedimages:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.hack.innovationstar.augmentedimages:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.hack.innovationstar.augmentedimages:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.hack.innovationstar.augmentedimages:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.hack.innovationstar.augmentedimages:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.hack.innovationstar.augmentedimages:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.hack.innovationstar.augmentedimages:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.hack.innovationstar.augmentedimages:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.hack.innovationstar.augmentedimages:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.hack.innovationstar.augmentedimages:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.hack.innovationstar.augmentedimages:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.hack.innovationstar.augmentedimages:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.hack.innovationstar.augmentedimages:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.hack.innovationstar.augmentedimages:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.hack.innovationstar.augmentedimages:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.hack.innovationstar.augmentedimages:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.hack.innovationstar.augmentedimages:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.hack.innovationstar.augmentedimages:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.hack.innovationstar.augmentedimages:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.hack.innovationstar.augmentedimages:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.hack.innovationstar.augmentedimages:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.hack.innovationstar.augmentedimages:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.hack.innovationstar.augmentedimages:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.hack.innovationstar.augmentedimages:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.hack.innovationstar.augmentedimages:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.hack.innovationstar.augmentedimages:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.hack.innovationstar.augmentedimages:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.hack.innovationstar.augmentedimages:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.hack.innovationstar.augmentedimages:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.hack.innovationstar.augmentedimages:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.hack.innovationstar.augmentedimages:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.hack.innovationstar.augmentedimages:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.hack.innovationstar.augmentedimages:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.hack.innovationstar.augmentedimages:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.hack.innovationstar.augmentedimages:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.hack.innovationstar.augmentedimages:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.hack.innovationstar.augmentedimages:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.hack.innovationstar.augmentedimages:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.hack.innovationstar.augmentedimages:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.hack.innovationstar.augmentedimages:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.hack.innovationstar.augmentedimages:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.hack.innovationstar.augmentedimages:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.hack.innovationstar.augmentedimages:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.hack.innovationstar.augmentedimages:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.hack.innovationstar.augmentedimages:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.hack.innovationstar.augmentedimages:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.hack.innovationstar.augmentedimages:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.hack.innovationstar.augmentedimages:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.hack.innovationstar.augmentedimages:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.hack.innovationstar.augmentedimages:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.hack.innovationstar.augmentedimages:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.hack.innovationstar.augmentedimages:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.hack.innovationstar.augmentedimages:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.hack.innovationstar.augmentedimages:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.hack.innovationstar.augmentedimages:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.hack.innovationstar.augmentedimages:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.hack.innovationstar.augmentedimages:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.hack.innovationstar.augmentedimages:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.hack.innovationstar.augmentedimages:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.hack.innovationstar.augmentedimages:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.hack.innovationstar.augmentedimages:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.hack.innovationstar.augmentedimages:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.hack.innovationstar.augmentedimages:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.hack.innovationstar.augmentedimages:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.hack.innovationstar.augmentedimages:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.hack.innovationstar.augmentedimages:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.hack.innovationstar.augmentedimages:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.hack.innovationstar.augmentedimages:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.hack.innovationstar.augmentedimages:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.hack.innovationstar.augmentedimages:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.hack.innovationstar.augmentedimages:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.hack.innovationstar.augmentedimages:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.hack.innovationstar.augmentedimages:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.hack.innovationstar.augmentedimages:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.hack.innovationstar.augmentedimages:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.hack.innovationstar.augmentedimages:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.hack.innovationstar.augmentedimages:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.hack.innovationstar.augmentedimages:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.hack.innovationstar.augmentedimages:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.hack.innovationstar.augmentedimages:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.hack.innovationstar.augmentedimages:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.hack.innovationstar.augmentedimages:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.hack.innovationstar.augmentedimages:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.hack.innovationstar.augmentedimages:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.hack.innovationstar.augmentedimages:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.hack.innovationstar.augmentedimages:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.hack.innovationstar.augmentedimages:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.hack.innovationstar.augmentedimages:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.example.lab_pc_001.augmentedimages:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.example.lab_pc_001.augmentedimages:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.example.lab_pc_001.augmentedimages:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.example.lab_pc_001.augmentedimages:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.example.lab_pc_001.augmentedimages:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.example.lab_pc_001.augmentedimages:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.example.lab_pc_001.augmentedimages:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.example.lab_pc_001.augmentedimages:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.example.lab_pc_001.augmentedimages:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.example.lab_pc_001.augmentedimages:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.example.lab_pc_001.augmentedimages:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.example.lab_pc_001.augmentedimages:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.example.lab_pc_001.augmentedimages:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.example.lab_pc_001.augmentedimages:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.example.lab_pc_001.augmentedimages:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.example.lab_pc_001.augmentedimages:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.example.lab_pc_001.augmentedimages:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.example.lab_pc_001.augmentedimages:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.example.lab_pc_001.augmentedimages:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.example.lab_pc_001.augmentedimages:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.example.lab_pc_001.augmentedimages:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.example.lab_pc_001.augmentedimages:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.example.lab_pc_001.augmentedimages:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.example.lab_pc_001.augmentedimages:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.example.lab_pc_001.augmentedimages:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.example.lab_pc_001.augmentedimages:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.example.lab_pc_001.augmentedimages:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.example.lab_pc_001.augmentedimages:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.example.lab_pc_001.augmentedimages:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.example.lab_pc_001.augmentedimages:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.example.lab_pc_001.augmentedimages:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.example.lab_pc_001.augmentedimages:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.example.lab_pc_001.augmentedimages:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.example.lab_pc_001.augmentedimages:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.example.lab_pc_001.augmentedimages:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.example.lab_pc_001.augmentedimages:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.example.lab_pc_001.augmentedimages:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.example.lab_pc_001.augmentedimages:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.example.lab_pc_001.augmentedimages:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.example.lab_pc_001.augmentedimages:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.example.lab_pc_001.augmentedimages:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.example.lab_pc_001.augmentedimages:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.example.lab_pc_001.augmentedimages:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.example.lab_pc_001.augmentedimages:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.example.lab_pc_001.augmentedimages:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.example.lab_pc_001.augmentedimages:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.example.lab_pc_001.augmentedimages:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.example.lab_pc_001.augmentedimages:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.example.lab_pc_001.augmentedimages:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.example.lab_pc_001.augmentedimages:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.example.lab_pc_001.augmentedimages:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.example.lab_pc_001.augmentedimages:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.example.lab_pc_001.augmentedimages:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.example.lab_pc_001.augmentedimages:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.example.lab_pc_001.augmentedimages:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.example.lab_pc_001.augmentedimages:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.example.lab_pc_001.augmentedimages:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.example.lab_pc_001.augmentedimages:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.example.lab_pc_001.augmentedimages:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.example.lab_pc_001.augmentedimages:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.example.lab_pc_001.augmentedimages:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.example.lab_pc_001.augmentedimages:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.example.lab_pc_001.augmentedimages:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.example.lab_pc_001.augmentedimages:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.example.lab_pc_001.augmentedimages:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.example.lab_pc_001.augmentedimages:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.example.lab_pc_001.augmentedimages:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.example.lab_pc_001.augmentedimages:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.example.lab_pc_001.augmentedimages:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.example.lab_pc_001.augmentedimages:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.example.lab_pc_001.augmentedimages:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.example.lab_pc_001.augmentedimages:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.example.lab_pc_001.augmentedimages:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.example.lab_pc_001.augmentedimages:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.example.lab_pc_001.augmentedimages:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.example.lab_pc_001.augmentedimages:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.example.lab_pc_001.augmentedimages:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.example.lab_pc_001.augmentedimages:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.example.lab_pc_001.augmentedimages:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.example.lab_pc_001.augmentedimages:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.example.lab_pc_001.augmentedimages:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.example.lab_pc_001.augmentedimages:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.example.lab_pc_001.augmentedimages:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.example.lab_pc_001.augmentedimages:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.example.lab_pc_001.augmentedimages:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.example.lab_pc_001.augmentedimages:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.example.lab_pc_001.augmentedimages:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.example.lab_pc_001.augmentedimages:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.example.lab_pc_001.augmentedimages:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.example.lab_pc_001.augmentedimages:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.example.lab_pc_001.augmentedimages:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.example.lab_pc_001.augmentedimages:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.example.lab_pc_001.augmentedimages:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.example.lab_pc_001.augmentedimages:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.example.lab_pc_001.augmentedimages:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.example.lab_pc_001.augmentedimages:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.example.lab_pc_001.augmentedimages:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.example.lab_pc_001.augmentedimages:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.example.lab_pc_001.augmentedimages:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.example.lab_pc_001.augmentedimages:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.example.lab_pc_001.augmentedimages:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.example.lab_pc_001.augmentedimages:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.example.lab_pc_001.augmentedimages:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.example.lab_pc_001.augmentedimages:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.example.lab_pc_001.augmentedimages:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.example.lab_pc_001.augmentedimages:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.example.lab_pc_001.augmentedimages:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.example.lab_pc_001.augmentedimages:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.example.lab_pc_001.augmentedimages:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.example.lab_pc_001.augmentedimages:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.example.lab_pc_001.augmentedimages:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.example.lab_pc_001.augmentedimages:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.example.lab_pc_001.augmentedimages:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.example.lab_pc_001.augmentedimages:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.example.lab_pc_001.augmentedimages:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.example.lab_pc_001.augmentedimages:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.example.lab_pc_001.augmentedimages:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.example.lab_pc_001.augmentedimages:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -5041,7 +5041,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5049,11 +5049,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionBarDivider
+     * @attr name com.example.lab_pc_001.augmentedimages:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5061,11 +5061,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionBarItemBackground
+     * @attr name com.example.lab_pc_001.augmentedimages:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5073,11 +5073,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionBarPopupTheme
+     * @attr name com.example.lab_pc_001.augmentedimages:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5094,11 +5094,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionBarSize
+     * @attr name com.example.lab_pc_001.augmentedimages:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5106,11 +5106,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionBarSplitStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5118,11 +5118,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionBarStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5130,11 +5130,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionBarTabBarStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5142,11 +5142,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionBarTabStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5154,11 +5154,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionBarTabTextStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5166,11 +5166,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionBarTheme
+     * @attr name com.example.lab_pc_001.augmentedimages:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5178,11 +5178,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionBarWidgetTheme
+     * @attr name com.example.lab_pc_001.augmentedimages:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5190,11 +5190,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionButtonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5202,11 +5202,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionDropDownStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5214,11 +5214,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionMenuTextAppearance
+     * @attr name com.example.lab_pc_001.augmentedimages:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5229,11 +5229,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionMenuTextColor
+     * @attr name com.example.lab_pc_001.augmentedimages:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5241,11 +5241,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModeBackground
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5253,11 +5253,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModeCloseButtonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5265,11 +5265,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModeCloseDrawable
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5277,11 +5277,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModeCopyDrawable
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5289,11 +5289,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModeCutDrawable
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5301,11 +5301,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModeFindDrawable
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5313,11 +5313,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModePasteDrawable
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5325,11 +5325,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModePopupWindowStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5337,11 +5337,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModeSelectAllDrawable
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5349,11 +5349,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModeShareDrawable
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5361,11 +5361,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModeSplitBackground
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5373,11 +5373,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModeStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5385,11 +5385,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionModeWebSearchDrawable
+     * @attr name com.example.lab_pc_001.augmentedimages:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5397,11 +5397,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionOverflowButtonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5409,11 +5409,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionOverflowMenuStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5421,11 +5421,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:activityChooserViewStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5433,21 +5433,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:alertDialogButtonGroupStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:alertDialogCenterButtons
+     * @attr name com.example.lab_pc_001.augmentedimages:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5455,11 +5455,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:alertDialogStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5467,11 +5467,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:alertDialogTheme
+     * @attr name com.example.lab_pc_001.augmentedimages:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5479,11 +5479,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:autoCompleteTextViewStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5491,11 +5491,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:borderlessButtonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5503,11 +5503,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonBarButtonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5515,11 +5515,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonBarNegativeButtonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5527,11 +5527,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonBarNeutralButtonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5539,11 +5539,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonBarPositiveButtonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5551,11 +5551,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonBarStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5563,11 +5563,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5575,11 +5575,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonStyleSmall
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5587,11 +5587,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:checkboxStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5599,77 +5599,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:checkedTextViewStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:colorAccent
+     * @attr name com.example.lab_pc_001.augmentedimages:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:colorBackgroundFloating
+     * @attr name com.example.lab_pc_001.augmentedimages:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:colorButtonNormal
+     * @attr name com.example.lab_pc_001.augmentedimages:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:colorControlActivated
+     * @attr name com.example.lab_pc_001.augmentedimages:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:colorControlHighlight
+     * @attr name com.example.lab_pc_001.augmentedimages:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:colorControlNormal
+     * @attr name com.example.lab_pc_001.augmentedimages:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5680,44 +5680,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:colorError
+     * @attr name com.example.lab_pc_001.augmentedimages:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:colorPrimary
+     * @attr name com.example.lab_pc_001.augmentedimages:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:colorPrimaryDark
+     * @attr name com.example.lab_pc_001.augmentedimages:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:colorSwitchThumbNormal
+     * @attr name com.example.lab_pc_001.augmentedimages:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5725,11 +5725,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:controlBackground
+     * @attr name com.example.lab_pc_001.augmentedimages:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5738,11 +5738,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:dialogPreferredPadding
+     * @attr name com.example.lab_pc_001.augmentedimages:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5750,11 +5750,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:dialogTheme
+     * @attr name com.example.lab_pc_001.augmentedimages:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5762,11 +5762,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:dividerHorizontal
+     * @attr name com.example.lab_pc_001.augmentedimages:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5774,11 +5774,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:dividerVertical
+     * @attr name com.example.lab_pc_001.augmentedimages:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5786,11 +5786,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:dropDownListViewStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5799,11 +5799,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:dropdownListPreferredItemHeight
+     * @attr name com.example.lab_pc_001.augmentedimages:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5811,11 +5811,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:editTextBackground
+     * @attr name com.example.lab_pc_001.augmentedimages:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5826,11 +5826,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:editTextColor
+     * @attr name com.example.lab_pc_001.augmentedimages:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5838,11 +5838,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:editTextStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5850,11 +5850,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:homeAsUpIndicator
+     * @attr name com.example.lab_pc_001.augmentedimages:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5862,11 +5862,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:imageButtonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5874,11 +5874,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:listChoiceBackgroundIndicator
+     * @attr name com.example.lab_pc_001.augmentedimages:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5886,11 +5886,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:listDividerAlertDialog
+     * @attr name com.example.lab_pc_001.augmentedimages:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5898,11 +5898,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:listMenuViewStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5910,11 +5910,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:listPopupWindowStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5923,11 +5923,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:listPreferredItemHeight
+     * @attr name com.example.lab_pc_001.augmentedimages:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5936,11 +5936,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:listPreferredItemHeightLarge
+     * @attr name com.example.lab_pc_001.augmentedimages:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5949,11 +5949,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:listPreferredItemHeightSmall
+     * @attr name com.example.lab_pc_001.augmentedimages:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5962,11 +5962,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:listPreferredItemPaddingLeft
+     * @attr name com.example.lab_pc_001.augmentedimages:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5975,11 +5975,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:listPreferredItemPaddingRight
+     * @attr name com.example.lab_pc_001.augmentedimages:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5987,11 +5987,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:panelBackground
+     * @attr name com.example.lab_pc_001.augmentedimages:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5999,11 +5999,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:panelMenuListTheme
+     * @attr name com.example.lab_pc_001.augmentedimages:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6012,11 +6012,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:panelMenuListWidth
+     * @attr name com.example.lab_pc_001.augmentedimages:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6024,11 +6024,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:popupMenuStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6036,11 +6036,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:popupWindowStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6048,11 +6048,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:radioButtonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6060,11 +6060,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:ratingBarStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6072,11 +6072,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:ratingBarStyleIndicator
+     * @attr name com.example.lab_pc_001.augmentedimages:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6084,11 +6084,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:ratingBarStyleSmall
+     * @attr name com.example.lab_pc_001.augmentedimages:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6096,11 +6096,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:searchViewStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6108,11 +6108,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:seekBarStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6120,11 +6120,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:selectableItemBackground
+     * @attr name com.example.lab_pc_001.augmentedimages:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6132,11 +6132,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:selectableItemBackgroundBorderless
+     * @attr name com.example.lab_pc_001.augmentedimages:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6144,11 +6144,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:spinnerDropDownItemStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6156,11 +6156,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:spinnerStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6168,11 +6168,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:switchStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6180,11 +6180,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textAppearanceLargePopupMenu
+     * @attr name com.example.lab_pc_001.augmentedimages:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6192,11 +6192,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textAppearanceListItem
+     * @attr name com.example.lab_pc_001.augmentedimages:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6204,11 +6204,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textAppearanceListItemSecondary
+     * @attr name com.example.lab_pc_001.augmentedimages:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6216,11 +6216,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textAppearanceListItemSmall
+     * @attr name com.example.lab_pc_001.augmentedimages:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6228,11 +6228,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textAppearancePopupMenuHeader
+     * @attr name com.example.lab_pc_001.augmentedimages:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6240,11 +6240,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textAppearanceSearchResultSubtitle
+     * @attr name com.example.lab_pc_001.augmentedimages:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6252,11 +6252,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textAppearanceSearchResultTitle
+     * @attr name com.example.lab_pc_001.augmentedimages:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6264,11 +6264,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textAppearanceSmallPopupMenu
+     * @attr name com.example.lab_pc_001.augmentedimages:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6279,11 +6279,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textColorAlertDialogListItem
+     * @attr name com.example.lab_pc_001.augmentedimages:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6294,11 +6294,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textColorSearchUrl
+     * @attr name com.example.lab_pc_001.augmentedimages:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6306,11 +6306,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:toolbarNavigationButtonStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6318,11 +6318,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:toolbarStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6333,11 +6333,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:tooltipForegroundColor
+     * @attr name com.example.lab_pc_001.augmentedimages:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6345,51 +6345,51 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:tooltipFrameBackground
+     * @attr name com.example.lab_pc_001.augmentedimages:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:viewInflaterClass
+     * @attr name com.example.lab_pc_001.augmentedimages:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=109;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:windowActionBar
+     * @attr name com.example.lab_pc_001.augmentedimages:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=110;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:windowActionBarOverlay
+     * @attr name com.example.lab_pc_001.augmentedimages:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:windowActionModeOverlay
+     * @attr name com.example.lab_pc_001.augmentedimages:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=112;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6402,11 +6402,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hack.innovationstar.augmentedimages:windowFixedHeightMajor
+     * @attr name com.example.lab_pc_001.augmentedimages:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6419,11 +6419,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hack.innovationstar.augmentedimages:windowFixedHeightMinor
+     * @attr name com.example.lab_pc_001.augmentedimages:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6436,11 +6436,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hack.innovationstar.augmentedimages:windowFixedWidthMajor
+     * @attr name com.example.lab_pc_001.augmentedimages:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6453,11 +6453,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hack.innovationstar.augmentedimages:windowFixedWidthMinor
+     * @attr name com.example.lab_pc_001.augmentedimages:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6470,11 +6470,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hack.innovationstar.augmentedimages:windowMinWidthMajor
+     * @attr name com.example.lab_pc_001.augmentedimages:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6487,17 +6487,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.hack.innovationstar.augmentedimages:windowMinWidthMinor
+     * @attr name com.example.lab_pc_001.augmentedimages:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=118;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:windowNoTitle
+     * @attr name com.example.lab_pc_001.augmentedimages:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=119;
     /**
@@ -6507,7 +6507,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.hack.innovationstar.augmentedimages:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.example.lab_pc_001.augmentedimages:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -6515,13 +6515,13 @@ public final class R {
         0x7f020026
       };
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:allowStacking
+     * @attr name com.example.lab_pc_001.augmentedimages:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -6533,7 +6533,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.hack.innovationstar.augmentedimages:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.example.lab_pc_001.augmentedimages:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -6563,12 +6563,12 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:alpha
+     * @attr name com.example.lab_pc_001.augmentedimages:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -6579,8 +6579,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.hack.innovationstar.augmentedimages:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.hack.innovationstar.augmentedimages:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.example.lab_pc_001.augmentedimages:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.example.lab_pc_001.augmentedimages:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -6602,18 +6602,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonTint
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6630,7 +6630,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonTintMode
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -6645,61 +6645,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.hack.innovationstar.augmentedimages:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.hack.innovationstar.augmentedimages:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.hack.innovationstar.augmentedimages:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.hack.innovationstar.augmentedimages:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.hack.innovationstar.augmentedimages:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.hack.innovationstar.augmentedimages:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.hack.innovationstar.augmentedimages:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.hack.innovationstar.augmentedimages:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.hack.innovationstar.augmentedimages:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.hack.innovationstar.augmentedimages:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.hack.innovationstar.augmentedimages:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.hack.innovationstar.augmentedimages:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.hack.innovationstar.augmentedimages:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.hack.innovationstar.augmentedimages:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.hack.innovationstar.augmentedimages:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.hack.innovationstar.augmentedimages:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.hack.innovationstar.augmentedimages:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.hack.innovationstar.augmentedimages:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.hack.innovationstar.augmentedimages:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.hack.innovationstar.augmentedimages:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.hack.innovationstar.augmentedimages:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.hack.innovationstar.augmentedimages:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.hack.innovationstar.augmentedimages:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.hack.innovationstar.augmentedimages:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.hack.innovationstar.augmentedimages:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.hack.innovationstar.augmentedimages:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.hack.innovationstar.augmentedimages:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.hack.innovationstar.augmentedimages:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.hack.innovationstar.augmentedimages:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.hack.innovationstar.augmentedimages:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.hack.innovationstar.augmentedimages:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.hack.innovationstar.augmentedimages:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.hack.innovationstar.augmentedimages:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.hack.innovationstar.augmentedimages:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.hack.innovationstar.augmentedimages:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.hack.innovationstar.augmentedimages:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.hack.innovationstar.augmentedimages:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.hack.innovationstar.augmentedimages:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.hack.innovationstar.augmentedimages:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.hack.innovationstar.augmentedimages:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.hack.innovationstar.augmentedimages:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.hack.innovationstar.augmentedimages:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.hack.innovationstar.augmentedimages:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.hack.innovationstar.augmentedimages:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.hack.innovationstar.augmentedimages:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.hack.innovationstar.augmentedimages:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.hack.innovationstar.augmentedimages:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.hack.innovationstar.augmentedimages:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.hack.innovationstar.augmentedimages:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.hack.innovationstar.augmentedimages:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.hack.innovationstar.augmentedimages:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.hack.innovationstar.augmentedimages:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.example.lab_pc_001.augmentedimages:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.example.lab_pc_001.augmentedimages:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.example.lab_pc_001.augmentedimages:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.example.lab_pc_001.augmentedimages:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.example.lab_pc_001.augmentedimages:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.example.lab_pc_001.augmentedimages:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.example.lab_pc_001.augmentedimages:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.example.lab_pc_001.augmentedimages:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.example.lab_pc_001.augmentedimages:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.example.lab_pc_001.augmentedimages:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.example.lab_pc_001.augmentedimages:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.example.lab_pc_001.augmentedimages:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.example.lab_pc_001.augmentedimages:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.example.lab_pc_001.augmentedimages:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.example.lab_pc_001.augmentedimages:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.example.lab_pc_001.augmentedimages:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.example.lab_pc_001.augmentedimages:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.example.lab_pc_001.augmentedimages:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.example.lab_pc_001.augmentedimages:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.example.lab_pc_001.augmentedimages:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.example.lab_pc_001.augmentedimages:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.example.lab_pc_001.augmentedimages:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.example.lab_pc_001.augmentedimages:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.example.lab_pc_001.augmentedimages:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.example.lab_pc_001.augmentedimages:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.example.lab_pc_001.augmentedimages:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.example.lab_pc_001.augmentedimages:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.example.lab_pc_001.augmentedimages:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.example.lab_pc_001.augmentedimages:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.example.lab_pc_001.augmentedimages:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.example.lab_pc_001.augmentedimages:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.example.lab_pc_001.augmentedimages:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.example.lab_pc_001.augmentedimages:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.example.lab_pc_001.augmentedimages:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.example.lab_pc_001.augmentedimages:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.example.lab_pc_001.augmentedimages:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.example.lab_pc_001.augmentedimages:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.example.lab_pc_001.augmentedimages:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.example.lab_pc_001.augmentedimages:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.example.lab_pc_001.augmentedimages:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.example.lab_pc_001.augmentedimages:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.example.lab_pc_001.augmentedimages:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.example.lab_pc_001.augmentedimages:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.example.lab_pc_001.augmentedimages:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.example.lab_pc_001.augmentedimages:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.example.lab_pc_001.augmentedimages:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.example.lab_pc_001.augmentedimages:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.example.lab_pc_001.augmentedimages:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.example.lab_pc_001.augmentedimages:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.example.lab_pc_001.augmentedimages:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.example.lab_pc_001.augmentedimages:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.example.lab_pc_001.augmentedimages:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -6849,17 +6849,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:barrierAllowsGoneWidgets
+     * @attr name com.example.lab_pc_001.augmentedimages:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6876,21 +6876,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:barrierDirection
+     * @attr name com.example.lab_pc_001.augmentedimages:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:chainUseRtl
+     * @attr name com.example.lab_pc_001.augmentedimages:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6898,50 +6898,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:constraintSet
+     * @attr name com.example.lab_pc_001.augmentedimages:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:constraint_referenced_ids
+     * @attr name com.example.lab_pc_001.augmentedimages:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constrainedHeight
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constrainedWidth
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintBaseline_creator
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6957,20 +6957,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintBaseline_toBaselineOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintBottom_creator
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6986,11 +6986,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintBottom_toBottomOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7006,11 +7006,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintBottom_toTopOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7018,20 +7018,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintCircle
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintCircleAngle
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7040,21 +7040,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintCircleRadius
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintDimensionRatio
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7070,11 +7070,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintEnd_toEndOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7090,11 +7090,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintEnd_toStartOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7103,11 +7103,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintGuide_begin
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7116,20 +7116,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintGuide_end
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintGuide_percent
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7143,11 +7143,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHeight_default
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7164,11 +7164,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHeight_max
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7185,29 +7185,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHeight_min
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHeight_percent
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_bias
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7221,29 +7221,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_chainStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_weight
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintLeft_creator
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7259,11 +7259,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintLeft_toLeftOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7279,20 +7279,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintLeft_toRightOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintRight_creator
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7308,11 +7308,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintRight_toLeftOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7328,11 +7328,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintRight_toRightOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7348,11 +7348,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintStart_toEndOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7368,20 +7368,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintStart_toStartOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintTop_creator
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7397,11 +7397,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintTop_toBottomOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7417,20 +7417,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintTop_toTopOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintVertical_bias
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7444,20 +7444,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintVertical_chainStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintVertical_weight
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7471,11 +7471,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintWidth_default
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7492,11 +7492,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintWidth_max
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7513,20 +7513,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintWidth_min
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintWidth_percent
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7535,11 +7535,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_editor_absoluteX
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7548,11 +7548,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_editor_absoluteY
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7561,11 +7561,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginBottom
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7574,11 +7574,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginEnd
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7587,11 +7587,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginLeft
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7600,11 +7600,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginRight
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7613,11 +7613,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginStart
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7626,11 +7626,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginTop
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7647,7 +7647,7 @@ public final class R {
      * <tr><td>standard</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_optimizationLevel
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -7657,8 +7657,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.hack.innovationstar.augmentedimages:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.hack.innovationstar.augmentedimages:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.example.lab_pc_001.augmentedimages:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.example.lab_pc_001.augmentedimages:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -7667,7 +7667,7 @@ public final class R {
         0x7f02005b, 0x7f020076
       };
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7675,11 +7675,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:content
+     * @attr name com.example.lab_pc_001.augmentedimages:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7692,7 +7692,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:emptyVisibility
+     * @attr name com.example.lab_pc_001.augmentedimages:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -7725,55 +7725,55 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.hack.innovationstar.augmentedimages:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.hack.innovationstar.augmentedimages:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.hack.innovationstar.augmentedimages:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.hack.innovationstar.augmentedimages:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.hack.innovationstar.augmentedimages:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.hack.innovationstar.augmentedimages:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.hack.innovationstar.augmentedimages:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.hack.innovationstar.augmentedimages:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.hack.innovationstar.augmentedimages:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.hack.innovationstar.augmentedimages:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.hack.innovationstar.augmentedimages:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.hack.innovationstar.augmentedimages:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.hack.innovationstar.augmentedimages:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.hack.innovationstar.augmentedimages:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.hack.innovationstar.augmentedimages:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.hack.innovationstar.augmentedimages:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.hack.innovationstar.augmentedimages:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.hack.innovationstar.augmentedimages:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.hack.innovationstar.augmentedimages:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.hack.innovationstar.augmentedimages:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.hack.innovationstar.augmentedimages:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.hack.innovationstar.augmentedimages:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.hack.innovationstar.augmentedimages:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.hack.innovationstar.augmentedimages:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.hack.innovationstar.augmentedimages:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.hack.innovationstar.augmentedimages:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.hack.innovationstar.augmentedimages:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.hack.innovationstar.augmentedimages:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.hack.innovationstar.augmentedimages:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.hack.innovationstar.augmentedimages:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.hack.innovationstar.augmentedimages:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.hack.innovationstar.augmentedimages:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.hack.innovationstar.augmentedimages:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.hack.innovationstar.augmentedimages:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.hack.innovationstar.augmentedimages:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.hack.innovationstar.augmentedimages:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.hack.innovationstar.augmentedimages:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.hack.innovationstar.augmentedimages:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.hack.innovationstar.augmentedimages:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.hack.innovationstar.augmentedimages:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.hack.innovationstar.augmentedimages:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.hack.innovationstar.augmentedimages:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.hack.innovationstar.augmentedimages:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.hack.innovationstar.augmentedimages:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.hack.innovationstar.augmentedimages:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.hack.innovationstar.augmentedimages:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.example.lab_pc_001.augmentedimages:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.example.lab_pc_001.augmentedimages:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.example.lab_pc_001.augmentedimages:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.example.lab_pc_001.augmentedimages:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.example.lab_pc_001.augmentedimages:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.example.lab_pc_001.augmentedimages:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.example.lab_pc_001.augmentedimages:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.example.lab_pc_001.augmentedimages:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.example.lab_pc_001.augmentedimages:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.example.lab_pc_001.augmentedimages:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.example.lab_pc_001.augmentedimages:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.example.lab_pc_001.augmentedimages:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.example.lab_pc_001.augmentedimages:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.example.lab_pc_001.augmentedimages:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.example.lab_pc_001.augmentedimages:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.example.lab_pc_001.augmentedimages:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.example.lab_pc_001.augmentedimages:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.example.lab_pc_001.augmentedimages:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.example.lab_pc_001.augmentedimages:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.example.lab_pc_001.augmentedimages:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.example.lab_pc_001.augmentedimages:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.example.lab_pc_001.augmentedimages:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.example.lab_pc_001.augmentedimages:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.example.lab_pc_001.augmentedimages:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.example.lab_pc_001.augmentedimages:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.example.lab_pc_001.augmentedimages:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.example.lab_pc_001.augmentedimages:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.example.lab_pc_001.augmentedimages:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.example.lab_pc_001.augmentedimages:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.example.lab_pc_001.augmentedimages:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.example.lab_pc_001.augmentedimages:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.example.lab_pc_001.augmentedimages:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.example.lab_pc_001.augmentedimages:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.example.lab_pc_001.augmentedimages:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.example.lab_pc_001.augmentedimages:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.example.lab_pc_001.augmentedimages:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.example.lab_pc_001.augmentedimages:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.example.lab_pc_001.augmentedimages:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.example.lab_pc_001.augmentedimages:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.example.lab_pc_001.augmentedimages:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.example.lab_pc_001.augmentedimages:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.example.lab_pc_001.augmentedimages:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.example.lab_pc_001.augmentedimages:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.example.lab_pc_001.augmentedimages:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.example.lab_pc_001.augmentedimages:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.example.lab_pc_001.augmentedimages:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -8172,36 +8172,36 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=22;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constrainedHeight
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=23;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constrainedWidth
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=24;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintBaseline_creator
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=25;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8217,20 +8217,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintBaseline_toBaselineOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=26;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintBottom_creator
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=27;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8246,11 +8246,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintBottom_toBottomOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=28;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8266,11 +8266,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintBottom_toTopOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=29;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8278,20 +8278,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintCircle
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintCircleAngle
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8300,21 +8300,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintCircleRadius
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=32;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintDimensionRatio
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=33;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8330,11 +8330,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintEnd_toEndOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8350,11 +8350,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintEnd_toStartOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8363,11 +8363,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintGuide_begin
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=36;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8376,20 +8376,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintGuide_end
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=37;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintGuide_percent
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=38;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8403,11 +8403,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHeight_default
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=39;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8424,11 +8424,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHeight_max
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=40;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8445,29 +8445,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHeight_min
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=41;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHeight_percent
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=42;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_bias
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=43;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8481,29 +8481,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_chainStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintHorizontal_weight
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=45;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintLeft_creator
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=46;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8519,11 +8519,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintLeft_toLeftOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=47;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8539,20 +8539,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintLeft_toRightOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=48;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintRight_creator
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=49;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8568,11 +8568,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintRight_toLeftOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=50;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8588,11 +8588,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintRight_toRightOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=51;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8608,11 +8608,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintStart_toEndOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=52;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8628,20 +8628,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintStart_toStartOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=53;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintTop_creator
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8657,11 +8657,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintTop_toBottomOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8677,20 +8677,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintTop_toTopOf
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintVertical_bias
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=57;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8704,20 +8704,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintVertical_chainStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=58;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintVertical_weight
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=59;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8731,11 +8731,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintWidth_default
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=60;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8752,11 +8752,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintWidth_max
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=61;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8773,20 +8773,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintWidth_min
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=62;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_constraintWidth_percent
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=63;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8795,11 +8795,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_editor_absoluteX
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=64;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8808,11 +8808,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_editor_absoluteY
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=65;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8821,11 +8821,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginBottom
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=66;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8834,11 +8834,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginEnd
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=67;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8847,11 +8847,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginLeft
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=68;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8860,11 +8860,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginRight
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=69;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8873,11 +8873,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginStart
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=70;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8886,7 +8886,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_goneMarginTop
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=71;
     /**
@@ -8896,8 +8896,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.hack.innovationstar.augmentedimages:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.hack.innovationstar.augmentedimages:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.example.lab_pc_001.augmentedimages:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.example.lab_pc_001.augmentedimages:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -8906,7 +8906,7 @@ public final class R {
         0x7f020091, 0x7f020104
       };
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8914,11 +8914,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:keylines
+     * @attr name com.example.lab_pc_001.augmentedimages:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8929,7 +8929,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:statusBarBackground
+     * @attr name com.example.lab_pc_001.augmentedimages:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -8940,12 +8940,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.hack.innovationstar.augmentedimages:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.hack.innovationstar.augmentedimages:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.hack.innovationstar.augmentedimages:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.hack.innovationstar.augmentedimages:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.hack.innovationstar.augmentedimages:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.hack.innovationstar.augmentedimages:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.example.lab_pc_001.augmentedimages:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.example.lab_pc_001.augmentedimages:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.example.lab_pc_001.augmentedimages:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.example.lab_pc_001.augmentedimages:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.example.lab_pc_001.augmentedimages:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.example.lab_pc_001.augmentedimages:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -8989,7 +8989,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8997,11 +8997,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_anchor
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9026,21 +9026,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_anchorGravity
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_behavior
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9059,11 +9059,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_dodgeInsetEdges
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9081,16 +9081,16 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_insetEdge
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout_keyline
+     * @attr name com.example.lab_pc_001.augmentedimages:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -9100,14 +9100,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.hack.innovationstar.augmentedimages:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.hack.innovationstar.augmentedimages:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.hack.innovationstar.augmentedimages:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.hack.innovationstar.augmentedimages:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.hack.innovationstar.augmentedimages:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.hack.innovationstar.augmentedimages:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.hack.innovationstar.augmentedimages:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.hack.innovationstar.augmentedimages:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.example.lab_pc_001.augmentedimages:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.example.lab_pc_001.augmentedimages:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.example.lab_pc_001.augmentedimages:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.example.lab_pc_001.augmentedimages:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.example.lab_pc_001.augmentedimages:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.example.lab_pc_001.augmentedimages:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.example.lab_pc_001.augmentedimages:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.example.lab_pc_001.augmentedimages:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -9123,7 +9123,7 @@ public final class R {
         0x7f02006e, 0x7f020082, 0x7f0200fe, 0x7f02011c
       };
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9132,11 +9132,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:arrowHeadLength
+     * @attr name com.example.lab_pc_001.augmentedimages:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9145,11 +9145,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:arrowShaftLength
+     * @attr name com.example.lab_pc_001.augmentedimages:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9158,22 +9158,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:barLength
+     * @attr name com.example.lab_pc_001.augmentedimages:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:color
+     * @attr name com.example.lab_pc_001.augmentedimages:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9182,11 +9182,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:drawableSize
+     * @attr name com.example.lab_pc_001.augmentedimages:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9195,21 +9195,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:gapBetweenBars
+     * @attr name com.example.lab_pc_001.augmentedimages:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:spinBars
+     * @attr name com.example.lab_pc_001.augmentedimages:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9218,7 +9218,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:thickness
+     * @attr name com.example.lab_pc_001.augmentedimages:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -9228,12 +9228,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.hack.innovationstar.augmentedimages:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.hack.innovationstar.augmentedimages:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.hack.innovationstar.augmentedimages:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.hack.innovationstar.augmentedimages:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.hack.innovationstar.augmentedimages:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.hack.innovationstar.augmentedimages:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.example.lab_pc_001.augmentedimages:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.example.lab_pc_001.augmentedimages:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.example.lab_pc_001.augmentedimages:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.example.lab_pc_001.augmentedimages:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.example.lab_pc_001.augmentedimages:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.example.lab_pc_001.augmentedimages:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -9247,17 +9247,17 @@ public final class R {
         0x7f02007e, 0x7f02007f
       };
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:fontProviderAuthority
+     * @attr name com.example.lab_pc_001.augmentedimages:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9265,11 +9265,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:fontProviderCerts
+     * @attr name com.example.lab_pc_001.augmentedimages:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9282,11 +9282,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:fontProviderFetchStrategy
+     * @attr name com.example.lab_pc_001.augmentedimages:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -9299,27 +9299,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:fontProviderFetchTimeout
+     * @attr name com.example.lab_pc_001.augmentedimages:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:fontProviderPackage
+     * @attr name com.example.lab_pc_001.augmentedimages:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:fontProviderQuery
+     * @attr name com.example.lab_pc_001.augmentedimages:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -9332,9 +9332,9 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.hack.innovationstar.augmentedimages:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.hack.innovationstar.augmentedimages:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.hack.innovationstar.augmentedimages:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.example.lab_pc_001.augmentedimages:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.example.lab_pc_001.augmentedimages:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.example.lab_pc_001.augmentedimages:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -9386,7 +9386,7 @@ public final class R {
      */
     public static final int FontFamilyFont_android_fontStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#font}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9394,11 +9394,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:font
+     * @attr name com.example.lab_pc_001.augmentedimages:font
      */
     public static final int FontFamilyFont_font=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9411,16 +9411,16 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:fontStyle
+     * @attr name com.example.lab_pc_001.augmentedimages:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:fontWeight
+     * @attr name com.example.lab_pc_001.augmentedimages:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=5;
     /**
@@ -9466,10 +9466,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.hack.innovationstar.augmentedimages:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.hack.innovationstar.augmentedimages:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.hack.innovationstar.augmentedimages:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.hack.innovationstar.augmentedimages:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.example.lab_pc_001.augmentedimages:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.example.lab_pc_001.augmentedimages:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.example.lab_pc_001.augmentedimages:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.example.lab_pc_001.augmentedimages:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -9561,7 +9561,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9569,11 +9569,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:divider
+     * @attr name com.example.lab_pc_001.augmentedimages:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9582,21 +9582,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:dividerPadding
+     * @attr name com.example.lab_pc_001.augmentedimages:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:measureWithLargestChild
+     * @attr name com.example.lab_pc_001.augmentedimages:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9611,7 +9611,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:showDividers
+     * @attr name com.example.lab_pc_001.augmentedimages:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -9883,16 +9883,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.hack.innovationstar.augmentedimages:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.hack.innovationstar.augmentedimages:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.hack.innovationstar.augmentedimages:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.hack.innovationstar.augmentedimages:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.hack.innovationstar.augmentedimages:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.hack.innovationstar.augmentedimages:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.hack.innovationstar.augmentedimages:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.hack.innovationstar.augmentedimages:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.hack.innovationstar.augmentedimages:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.hack.innovationstar.augmentedimages:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.example.lab_pc_001.augmentedimages:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.example.lab_pc_001.augmentedimages:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.example.lab_pc_001.augmentedimages:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.example.lab_pc_001.augmentedimages:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.example.lab_pc_001.augmentedimages:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.example.lab_pc_001.augmentedimages:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.example.lab_pc_001.augmentedimages:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.example.lab_pc_001.augmentedimages:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.example.lab_pc_001.augmentedimages:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.example.lab_pc_001.augmentedimages:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -10069,7 +10069,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10077,31 +10077,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionLayout
+     * @attr name com.example.lab_pc_001.augmentedimages:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionProviderClass
+     * @attr name com.example.lab_pc_001.augmentedimages:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:actionViewClass
+     * @attr name com.example.lab_pc_001.augmentedimages:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10118,32 +10118,32 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:alphabeticModifiers
+     * @attr name com.example.lab_pc_001.augmentedimages:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentDescription
+     * @attr name com.example.lab_pc_001.augmentedimages:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:iconTint
+     * @attr name com.example.lab_pc_001.augmentedimages:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10160,11 +10160,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:iconTintMode
+     * @attr name com.example.lab_pc_001.augmentedimages:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10181,11 +10181,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:numericModifiers
+     * @attr name com.example.lab_pc_001.augmentedimages:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10201,17 +10201,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:showAsAction
+     * @attr name com.example.lab_pc_001.augmentedimages:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:tooltipText
+     * @attr name com.example.lab_pc_001.augmentedimages:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -10228,8 +10228,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.hack.innovationstar.augmentedimages:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.hack.innovationstar.augmentedimages:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.example.lab_pc_001.augmentedimages:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.example.lab_pc_001.augmentedimages:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -10334,17 +10334,17 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:preserveIconSpacing
+     * @attr name com.example.lab_pc_001.augmentedimages:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10352,7 +10352,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:subMenuArrow
+     * @attr name com.example.lab_pc_001.augmentedimages:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -10364,7 +10364,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.hack.innovationstar.augmentedimages:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.example.lab_pc_001.augmentedimages:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -10401,13 +10401,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:overlapAnchor
+     * @attr name com.example.lab_pc_001.augmentedimages:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -10417,7 +10417,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.hack.innovationstar.augmentedimages:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.example.lab_pc_001.augmentedimages:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -10425,13 +10425,13 @@ public final class R {
         0x7f020103
       };
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:state_above_anchor
+     * @attr name com.example.lab_pc_001.augmentedimages:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -10441,8 +10441,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.hack.innovationstar.augmentedimages:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.hack.innovationstar.augmentedimages:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.example.lab_pc_001.augmentedimages:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.example.lab_pc_001.augmentedimages:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -10451,7 +10451,7 @@ public final class R {
         0x7f0200e0, 0x7f0200e3
       };
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10460,11 +10460,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:paddingBottomNoButtons
+     * @attr name com.example.lab_pc_001.augmentedimages:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10473,7 +10473,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:paddingTopNoTitle
+     * @attr name com.example.lab_pc_001.augmentedimages:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -10487,19 +10487,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.hack.innovationstar.augmentedimages:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.hack.innovationstar.augmentedimages:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.hack.innovationstar.augmentedimages:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.hack.innovationstar.augmentedimages:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.hack.innovationstar.augmentedimages:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.hack.innovationstar.augmentedimages:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.hack.innovationstar.augmentedimages:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.hack.innovationstar.augmentedimages:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.hack.innovationstar.augmentedimages:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.hack.innovationstar.augmentedimages:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.hack.innovationstar.augmentedimages:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.hack.innovationstar.augmentedimages:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.hack.innovationstar.augmentedimages:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.example.lab_pc_001.augmentedimages:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.example.lab_pc_001.augmentedimages:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.example.lab_pc_001.augmentedimages:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.example.lab_pc_001.augmentedimages:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.example.lab_pc_001.augmentedimages:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.example.lab_pc_001.augmentedimages:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.example.lab_pc_001.augmentedimages:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.example.lab_pc_001.augmentedimages:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.example.lab_pc_001.augmentedimages:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.example.lab_pc_001.augmentedimages:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.example.lab_pc_001.augmentedimages:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.example.lab_pc_001.augmentedimages:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.example.lab_pc_001.augmentedimages:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -10637,7 +10637,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10645,11 +10645,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:closeIcon
+     * @attr name com.example.lab_pc_001.augmentedimages:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10657,21 +10657,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:commitIcon
+     * @attr name com.example.lab_pc_001.augmentedimages:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:defaultQueryHint
+     * @attr name com.example.lab_pc_001.augmentedimages:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10679,21 +10679,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:goIcon
+     * @attr name com.example.lab_pc_001.augmentedimages:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:iconifiedByDefault
+     * @attr name com.example.lab_pc_001.augmentedimages:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10701,11 +10701,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:layout
+     * @attr name com.example.lab_pc_001.augmentedimages:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10713,21 +10713,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:queryBackground
+     * @attr name com.example.lab_pc_001.augmentedimages:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:queryHint
+     * @attr name com.example.lab_pc_001.augmentedimages:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10735,11 +10735,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:searchHintIcon
+     * @attr name com.example.lab_pc_001.augmentedimages:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10747,11 +10747,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:searchIcon
+     * @attr name com.example.lab_pc_001.augmentedimages:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10759,11 +10759,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:submitBackground
+     * @attr name com.example.lab_pc_001.augmentedimages:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10771,11 +10771,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:suggestionRowLayout
+     * @attr name com.example.lab_pc_001.augmentedimages:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10783,7 +10783,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:voiceIcon
+     * @attr name com.example.lab_pc_001.augmentedimages:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -10797,7 +10797,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.hack.innovationstar.augmentedimages:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.example.lab_pc_001.augmentedimages:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -10872,7 +10872,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10880,7 +10880,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:popupTheme
+     * @attr name com.example.lab_pc_001.augmentedimages:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -10893,17 +10893,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.hack.innovationstar.augmentedimages:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.hack.innovationstar.augmentedimages:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.hack.innovationstar.augmentedimages:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.hack.innovationstar.augmentedimages:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.hack.innovationstar.augmentedimages:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.hack.innovationstar.augmentedimages:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.hack.innovationstar.augmentedimages:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.hack.innovationstar.augmentedimages:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.hack.innovationstar.augmentedimages:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.hack.innovationstar.augmentedimages:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.hack.innovationstar.augmentedimages:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.example.lab_pc_001.augmentedimages:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.example.lab_pc_001.augmentedimages:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.example.lab_pc_001.augmentedimages:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.example.lab_pc_001.augmentedimages:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.example.lab_pc_001.augmentedimages:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.example.lab_pc_001.augmentedimages:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.example.lab_pc_001.augmentedimages:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.example.lab_pc_001.augmentedimages:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.example.lab_pc_001.augmentedimages:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.example.lab_pc_001.augmentedimages:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.example.lab_pc_001.augmentedimages:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -10959,27 +10959,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:showText
+     * @attr name com.example.lab_pc_001.augmentedimages:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:splitTrack
+     * @attr name com.example.lab_pc_001.augmentedimages:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10988,11 +10988,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:switchMinWidth
+     * @attr name com.example.lab_pc_001.augmentedimages:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11001,11 +11001,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:switchPadding
+     * @attr name com.example.lab_pc_001.augmentedimages:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11013,11 +11013,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:switchTextAppearance
+     * @attr name com.example.lab_pc_001.augmentedimages:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11026,22 +11026,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:thumbTextPadding
+     * @attr name com.example.lab_pc_001.augmentedimages:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:thumbTint
+     * @attr name com.example.lab_pc_001.augmentedimages:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11058,11 +11058,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:thumbTintMode
+     * @attr name com.example.lab_pc_001.augmentedimages:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11070,22 +11070,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:track
+     * @attr name com.example.lab_pc_001.augmentedimages:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:trackTint
+     * @attr name com.example.lab_pc_001.augmentedimages:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11102,7 +11102,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:trackTintMode
+     * @attr name com.example.lab_pc_001.augmentedimages:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -11123,8 +11123,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.hack.innovationstar.augmentedimages:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.hack.innovationstar.augmentedimages:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.example.lab_pc_001.augmentedimages:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.example.lab_pc_001.augmentedimages:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -11290,17 +11290,17 @@ public final class R {
      */
     public static final int TextAppearance_android_fontFamily=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:fontFamily
+     * @attr name com.example.lab_pc_001.augmentedimages:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11310,7 +11310,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:textAllCaps
+     * @attr name com.example.lab_pc_001.augmentedimages:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -11322,33 +11322,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.hack.innovationstar.augmentedimages:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.hack.innovationstar.augmentedimages:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.hack.innovationstar.augmentedimages:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.hack.innovationstar.augmentedimages:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.hack.innovationstar.augmentedimages:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.hack.innovationstar.augmentedimages:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.hack.innovationstar.augmentedimages:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.hack.innovationstar.augmentedimages:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.hack.innovationstar.augmentedimages:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.hack.innovationstar.augmentedimages:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.hack.innovationstar.augmentedimages:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.hack.innovationstar.augmentedimages:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.hack.innovationstar.augmentedimages:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.hack.innovationstar.augmentedimages:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.hack.innovationstar.augmentedimages:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.hack.innovationstar.augmentedimages:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.hack.innovationstar.augmentedimages:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.hack.innovationstar.augmentedimages:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.hack.innovationstar.augmentedimages:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.hack.innovationstar.augmentedimages:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.hack.innovationstar.augmentedimages:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.hack.innovationstar.augmentedimages:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.hack.innovationstar.augmentedimages:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.hack.innovationstar.augmentedimages:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.hack.innovationstar.augmentedimages:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.hack.innovationstar.augmentedimages:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.hack.innovationstar.augmentedimages:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.example.lab_pc_001.augmentedimages:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.example.lab_pc_001.augmentedimages:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.example.lab_pc_001.augmentedimages:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.example.lab_pc_001.augmentedimages:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.example.lab_pc_001.augmentedimages:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.example.lab_pc_001.augmentedimages:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.example.lab_pc_001.augmentedimages:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.example.lab_pc_001.augmentedimages:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.example.lab_pc_001.augmentedimages:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.example.lab_pc_001.augmentedimages:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.example.lab_pc_001.augmentedimages:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.example.lab_pc_001.augmentedimages:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.example.lab_pc_001.augmentedimages:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.example.lab_pc_001.augmentedimages:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.example.lab_pc_001.augmentedimages:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.example.lab_pc_001.augmentedimages:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.example.lab_pc_001.augmentedimages:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.example.lab_pc_001.augmentedimages:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.example.lab_pc_001.augmentedimages:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.example.lab_pc_001.augmentedimages:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.example.lab_pc_001.augmentedimages:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.example.lab_pc_001.augmentedimages:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.example.lab_pc_001.augmentedimages:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.example.lab_pc_001.augmentedimages:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.example.lab_pc_001.augmentedimages:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.example.lab_pc_001.augmentedimages:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.example.lab_pc_001.augmentedimages:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -11433,7 +11433,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11446,21 +11446,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:buttonGravity
+     * @attr name com.example.lab_pc_001.augmentedimages:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:collapseContentDescription
+     * @attr name com.example.lab_pc_001.augmentedimages:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11468,11 +11468,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:collapseIcon
+     * @attr name com.example.lab_pc_001.augmentedimages:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11481,11 +11481,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetEnd
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11494,11 +11494,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetEndWithActions
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11507,11 +11507,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetLeft
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11520,11 +11520,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetRight
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11533,11 +11533,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetStart
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11546,11 +11546,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:contentInsetStartWithNavigation
+     * @attr name com.example.lab_pc_001.augmentedimages:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11558,21 +11558,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:logo
+     * @attr name com.example.lab_pc_001.augmentedimages:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:logoDescription
+     * @attr name com.example.lab_pc_001.augmentedimages:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11581,21 +11581,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:maxButtonHeight
+     * @attr name com.example.lab_pc_001.augmentedimages:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:navigationContentDescription
+     * @attr name com.example.lab_pc_001.augmentedimages:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11603,11 +11603,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:navigationIcon
+     * @attr name com.example.lab_pc_001.augmentedimages:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11615,21 +11615,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:popupTheme
+     * @attr name com.example.lab_pc_001.augmentedimages:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:subtitle
+     * @attr name com.example.lab_pc_001.augmentedimages:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11637,32 +11637,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:subtitleTextAppearance
+     * @attr name com.example.lab_pc_001.augmentedimages:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:subtitleTextColor
+     * @attr name com.example.lab_pc_001.augmentedimages:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.hack.innovationstar.augmentedimages:title
+     * @attr name com.example.lab_pc_001.augmentedimages:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11671,11 +11671,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:titleMargin
+     * @attr name com.example.lab_pc_001.augmentedimages:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11684,11 +11684,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:titleMarginBottom
+     * @attr name com.example.lab_pc_001.augmentedimages:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11697,11 +11697,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:titleMarginEnd
+     * @attr name com.example.lab_pc_001.augmentedimages:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11710,11 +11710,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:titleMarginStart
+     * @attr name com.example.lab_pc_001.augmentedimages:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11723,11 +11723,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:titleMarginTop
+     * @attr name com.example.lab_pc_001.augmentedimages:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11736,11 +11736,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:titleMargins
+     * @attr name com.example.lab_pc_001.augmentedimages:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11748,18 +11748,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:titleTextAppearance
+     * @attr name com.example.lab_pc_001.augmentedimages:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:titleTextColor
+     * @attr name com.example.lab_pc_001.augmentedimages:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -11771,9 +11771,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.hack.innovationstar.augmentedimages:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.hack.innovationstar.augmentedimages:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.hack.innovationstar.augmentedimages:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.example.lab_pc_001.augmentedimages:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.example.lab_pc_001.augmentedimages:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.example.lab_pc_001.augmentedimages:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -11816,7 +11816,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11825,11 +11825,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:paddingEnd
+     * @attr name com.example.lab_pc_001.augmentedimages:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11838,11 +11838,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.hack.innovationstar.augmentedimages:paddingStart
+     * @attr name com.example.lab_pc_001.augmentedimages:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11850,7 +11850,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:theme
+     * @attr name com.example.lab_pc_001.augmentedimages:theme
      */
     public static final int View_theme=4;
     /**
@@ -11861,8 +11861,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.hack.innovationstar.augmentedimages:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.hack.innovationstar.augmentedimages:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.example.lab_pc_001.augmentedimages:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.example.lab_pc_001.augmentedimages:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -11887,18 +11887,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.hack.innovationstar.augmentedimages:backgroundTint
+     * @attr name com.example.lab_pc_001.augmentedimages:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.hack.innovationstar.augmentedimages.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.example.lab_pc_001.augmentedimages.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11915,7 +11915,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.hack.innovationstar.augmentedimages:backgroundTintMode
+     * @attr name com.example.lab_pc_001.augmentedimages:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
