@@ -17,6 +17,7 @@ import com.google.ar.core.Session;
 import com.google.ar.core.TrackingState;
 import com.google.ar.sceneform.AnchorNode;
 import com.google.ar.sceneform.FrameTime;
+import com.google.ar.sceneform.NodeParent;
 import com.google.ar.sceneform.rendering.ModelRenderable;
 import com.google.ar.sceneform.rendering.Renderable;
 import com.google.ar.sceneform.ux.ArFragment;
@@ -31,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
     private CustomArFragment arFragment;
     private boolean shouldAddModel = true;
+    private boolean shouldAddModel1 = true;
     public AnchorNode anchorNode;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,30 +64,58 @@ public class MainActivity extends AppCompatActivity {
     private void onUpdateFrame(FrameTime frameTime){
         Frame frame = arFragment.getArSceneView().getArFrame();
        // Anchor an= this.anchorNode.getAnchor();
-        shouldAddModel = true;
+        //shouldAddModel = true;
 
         Collection<AugmentedImage> augmentedImages = frame.getUpdatedTrackables(AugmentedImage.class);
 
         for (AugmentedImage augmentedImage : augmentedImages){
             if (augmentedImage.getTrackingState() == TrackingState.TRACKING){
 
-              // if ((augmentedImage.getName().equals("DEAL3.png") ) && shouldAddModel){
+               if ((augmentedImage.getName().equals("DEAL3.png") ) && shouldAddModel){
 
-                    if ((augmentedImage.getName().equals("DEAL3.png")) && anchorNode == null) {
+                    //if ((augmentedImage.getName().equals("DEAL3.png"))) {
+                        Collection<Anchor> allanchors=augmentedImage.getAnchors();
+                        /*if (allanchors.isEmpty()==false)
+                        {
+                            for (Anchor anchor:allanchors)
+                            {
+                                augmentedImage.getAnchors().clear();
+
+                            }
+                        }*/
+
                     placeObject(arFragment,
                             augmentedImage.createAnchor(augmentedImage.getCenterPose()),
                             Uri.parse("Airplane.sfb"));
                     shouldAddModel = false;
+                    shouldAddModel1=true;
                 }
 
-                //if ((augmentedImage.getName().equals("airplane.jpg") ) && shouldAddModel){
-                    if ((augmentedImage.getName().equals("airplane.jpg") ) && anchorNode == null){
+                if ((augmentedImage.getName().equals("airplane.jpg") ) && shouldAddModel1){
+                    //if ((augmentedImage.getName().equals("airplane.jpg") )){
+                     /*   Collection<Anchor> allanchors1=augmentedImage.getAnchors();
+
+                        if (allanchors1.isEmpty()==false)
+                        {
+                            for (Anchor anchor:allanchors1)
+                            {
+                                augmentedImage.getAnchors().clear();
+                            }
+                        }*/
+
                     placeObject(arFragment,
                             augmentedImage.createAnchor(augmentedImage.getCenterPose()),
                             Uri.parse("1405 Plane.sfb"));
-                    shouldAddModel = false;
+                    shouldAddModel1 = false;
+                    shouldAddModel=true;
                 }
+
+
+
+
             }
+
+
         }
 
     }
@@ -109,19 +139,20 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void addNodeToScene(ArFragment fragment, Anchor anchor, Renderable renderable){
-//if(this.anchorNode!=null)
-//{
-//    if(anchorNode.getAnchor()!=null)
-//    {
-//        anchorNode.getAnchor().detach();
-//    }
-//    anchorNode.setParent(null);
-//}
+if(this.anchorNode!=null)
+{
+    if(anchorNode.getAnchor()!=null)
+    {
+        anchorNode.getAnchor().detach();
+    }
+    anchorNode.setParent(null);
+}
          anchorNode = new AnchorNode(anchor);
         TransformableNode node = new TransformableNode(fragment.getTransformationSystem());
         node.setRenderable(renderable);
         node.setParent(anchorNode);
         fragment.getArSceneView().getScene().addChild(anchorNode);
+
         node.select();
     }
 
